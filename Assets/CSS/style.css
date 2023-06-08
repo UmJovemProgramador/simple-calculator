@@ -171,7 +171,7 @@ button:hover::before {
     background-color: rgba(0, 0, 0, 0.8);
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-    transform: scale(4.5); /* Aplica o zoom de 1.5x */
+    transform: scale(3.5); /* Aplica o zoom de 1.5x */
   }
   
   input[type="text"] {
