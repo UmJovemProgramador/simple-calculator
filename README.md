@@ -1,3 +1,3 @@
 # simple-calculator
 
-<img src = "Calculato.webp" Alt = "">
+<img src = "Calculator.webp" Alt = "">
